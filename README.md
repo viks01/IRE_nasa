@@ -1,4 +1,4 @@
-# nasa_nlp
+# Information Retrieval From Text Files
 Some simple information retrieval tasks performed on a nasa corpus of articles.
 ## Setup Steps
 Extract the nasa tar file to obtain the nasa folder. Then run the jupyter notebook.
